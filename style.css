@@ -7,11 +7,11 @@
   background-color: #ddd;
 }
 
-.yellow_wrapper {
+.inner_wrapper {
   background-color: #ffa500;
 }
 
-.blue_wrapper {
+.outer_wrapper {
   background-color: #308dc0;
   margin: 20px 20px 40px;
   box-sizing: border-box;
